@@ -1,0 +1,27 @@
+_repo: General-GordonSaint-and-Soldier_20619
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20619-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wardle, Joseph
+    alias: Wardle, J.
+    gutenberg_agent_id: '9417'
+    url: http://www.gutenberg.org/2009/agents/9417
+description: ''
+gutenberg_issued: '2007-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain. Army -- Biography'
+- !lcsh 'Generals -- Great Britain -- Biography'
+- !lcsh 'Gordon, Charles George, 1833-1885'
+title: General Gordon, Saint and Soldier
+url: http://www.gutenberg.org/ebooks/20619
